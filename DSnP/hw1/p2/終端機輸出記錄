@@ -1,0 +1,36 @@
+Last login: Mon Sep 23 12:40:25 on ttys000
+Iristrongs-MacBook-Pro:~ iristrong$ /Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile ; exit;
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 1: CFLAGS: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 2: CFLAGS: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 4: p2Run:: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 5: CFLAGS: command not found
+g++: error: p2Json.o: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 8: p2Main.o:: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 9: CFLAGS: command not found
+g++: error: p2Main.cpp: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 11: p2Json.o:: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 12: CFLAGS: command not found
+g++: error: p2Json.cpp: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 14: json:: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 15: cd: jsonGen: No such file or directory
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 15: CFLAGS: command not found
+g++: error: jsonGen.cpp: No such file or directory
+g++: fatal error: no input files
+compilation terminated.
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 18: clean:: command not found
+/Users/iristrong/Documents/DSnP/DSnP.open-master/Homework/hw1/hw1/p2/Makefile: line 20: cd: jsonGen: No such file or directory
+logout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...none found.
+
+[程序完成]
+
