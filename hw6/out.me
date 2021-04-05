@@ -1,0 +1,42 @@
+cir> cirr tests.fraig/test2.aag -replace
+
+cir> cirp
+
+Circuit Statistics
+==================
+  PI           5
+  PO           3
+  AIG          2
+------------------
+  Total       10
+
+cir> cirp -n
+
+[0] CONST0
+[1] PO  17 0
+[2] PI  2
+[3] PI  3
+[4] AIG 7 2 3
+[5] PO  18 7
+[6] PI  5
+[7] PI  4
+[8] AIG 12 5 4
+[9] PO  19 12
+
+cir> cirp -pi
+PIs of the circuit: 1 2 3 4 5
+
+cir> cirp -po
+POs of the circuit: 17 18 19
+
+cir> cirp -fl
+Gates defined but not used  : 1
+
+cir> cirg 10
+
+cir> cirg 10 -fanin 3
+
+cir> cirg 14
+
+cir> q -f
+

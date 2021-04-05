@@ -1,0 +1,11 @@
+taski 10
+taskn -n a 10
+taskn -n b 10
+taskn -n c 10
+taskn -n d 10
+taskn -n e 10
+taskn -n f 10
+taskn -n g 10
+taskn -n h 10
+taskq -heap
+q -f

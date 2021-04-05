@@ -1,0 +1,12 @@
+cirr tests.fraig/test2.aag -replace
+cirp
+cirp -n
+cirp -pi
+cirp -po
+cirp -fl
+cirg 10
+cirg 10 -fanin 3
+cirg 14
+q -f
+
+

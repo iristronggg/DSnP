@@ -1,0 +1,18 @@
+cirr tests.fraig/sim06.aag
+cirp
+cirp -pi
+cirp -po
+cirp -n
+cirp -fl
+usage
+cirstrash
+usage
+cirsim -file tests.fraig/pattern.06
+usage
+cirp -fec
+cirg 2044
+cirg 538
+cirg 1
+cirg 0
+usage
+q -f
